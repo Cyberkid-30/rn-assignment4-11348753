@@ -35,3 +35,6 @@ This component shows a list of popular jobs.
 ### PopularJobscard
 
 This component displays a card for a particular job in the PopularJobs component.
+
+![alt text](screenshots/Login.jpg)
+![alt text](screenshots/Home.jpg)
